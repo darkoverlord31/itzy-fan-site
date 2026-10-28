@@ -1,0 +1,5 @@
+Thumbs.db
+.vscode/
+.DS_Store
+videos/
+videos/*.mp4
