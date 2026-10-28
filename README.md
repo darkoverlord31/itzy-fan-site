@@ -5,4 +5,12 @@ This is a simple html-based website which displays images, hosts audio files tha
 
 ## Screenshot
 
-![Homepage screenshot](screenshots/website.png)
+![Website screenshot 1](screenshots/website.png)
+![Website screenshot 2](screenshots/website 2.png)
+![Website screenshot 3](screenshots/website 3.png)
+
+## Technology Used
+HTML and CSS for the styling were used to make this site. It was then deployed online using Google's Firebase Hosting. 
+Here is the URL for those who want to check out the site. 
+
+### SITE: [ITZY FANMADE WEBSITE](https://itzy-fan-site.web.app)
