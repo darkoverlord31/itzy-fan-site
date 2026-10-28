@@ -5,9 +5,9 @@ This is a simple html-based website which displays images, hosts audio files tha
 
 ## Screenshot
 
-![Website screenshot 1](screenshots/website.png)
-![Website screenshot 2](screenshots/website 2.png)
-![Website screenshot 3](screenshots/website 3.png)
+<img src="screenshots/website.png" alt = "Member line-up on Site"> <br>
+<img src="screenshots/website 2.png" alt = "Songs Listed on Site"> <br>
+<img src="screenshots/website 3.png" alt = "Music Videos on Site">
 
 ## Technology Used
 HTML and CSS for the styling were used to make this site. It was then deployed online using Google's Firebase Hosting. 
