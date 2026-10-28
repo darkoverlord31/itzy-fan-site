@@ -11,4 +11,4 @@ This is a simple html-based website which displays images, hosts audio files tha
 HTML and CSS for the styling were used to make this site. It was then deployed online using Google's Firebase Hosting. 
 Here is the URL for those who want to check out the site. 
 
-### SITE: [ITZY FANMADE WEBSITE](itzy-fan-site.web.app)
+### SITE: [ITZY FANMADE WEBSITE](https://itzy-fan-site.web.app)
