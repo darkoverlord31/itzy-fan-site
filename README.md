@@ -3,7 +3,7 @@
 ## DESCRIPTION
 This is a simple html-based website which displays images, hosts audio files that can be played and paused and hosts YouTube videos of the Korea girl-group ITZY. Built as a small side project for fun and exploration of colour use in web design.
 
-## Screenshot
+## Screenshots
 
 <p align="center">Screenshot 1: Member Line-Up on a Pastel Coloured Site</p>
 <img src="screenshots/website.png" alt = "Member line-up on Site">
